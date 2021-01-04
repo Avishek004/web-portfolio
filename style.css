@@ -32,3 +32,7 @@ section{
     color: white;
     font-weight: 700;
 }
+.Dream-Area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
